@@ -1,14 +1,14 @@
 {
-  "templeName": "Sri Venkateswara Temple",
-  "templeNameWithLocation": "Sri Venkateswara Temple, Pittsburgh",
-  "templeAddress": "1230 S McCully Drive Pittsburgh PA 15235",
+  "templeName": "Sri Venkateswara Lotus Temple",
+  "templeNameWithLocation": "Sri Venkateswara Lotus Temple, Braddock",
+  "templeAddress": "12501 Braddock Road, Fairfax, VA, 22030",
   "templeReciptFooterText": "May the blessings of Lord Sri Venkateswara be with us always",
-  "instagramLink": "#",
-  "facebookLink": "https://www.facebook.com/SVTemplePgh/",
-  "youtubeLink": "https://www.youtube.com/c/SriVenkateswaraTemplePittsburghOfficial/",
-  "contactEmail": "contact@svtemple.org",
-  "infoEmail": "info@svtemple.org",
-  "websiteLink": "https://www.svtemple.org",
+  "instagramLink": "https://www.instagram.com/lotustempleva/",
+  "facebookLink": "https://www.facebook.com/SVLotusTemple",
+  "youtubeLink": "https://www.youtube.com/@SVLotusTempleVA",
+  "contactEmail": "svlotustemple@svlotustemple.org",
+  "infoEmail": "",
+  "websiteLink": "",
   "Header": {
     "style": 2,
     "menuItems": [
@@ -272,9 +272,9 @@
       ]
     },
     "ContactInfo": {
-      "address": "1230 S McCully Drive Pittsburgh PA 15235",
-      "phone": "(412) 373-3380",
-      "email": "srivaru@svtemple.org"
+      "address": "12501 Braddock Road, Fairfax, VA, 22030",
+      "phone": " 703-815-4850",
+      "email": "svlotustemple@svlotustemple.org"
     },
     "WebsiteIssues": {
       "url": "www.svtemple.org"
@@ -283,11 +283,11 @@
       "icons": [
         {
           "name": "Facebook",
-          "url": "https://www.facebook.com/SVTemplePgh/"
+          "url": "https://www.facebook.com/SVLotusTemple"
         },
         {
           "name": "Youtube",
-          "url": "https://www.youtube.com/c/SriVenkateswaraTemplePittsburghOfficial/"
+          "url": "https://www.youtube.com/@SVLotusTempleVA"
         }
       ]
     },
