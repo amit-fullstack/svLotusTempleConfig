@@ -1,0 +1,424 @@
+{
+  "templeName": "Sri Venkateswara Temple",
+  "templeNameWithLocation": "Sri Venkateswara Temple, Pittsburgh",
+  "templeAddress": "1230 S McCully Drive Pittsburgh PA 15235",
+  "templeReciptFooterText": "May the blessings of Lord Sri Venkateswara be with us always",
+  "instagramLink": "#",
+  "facebookLink": "https://www.facebook.com/SVTemplePgh/",
+  "youtubeLink": "https://www.youtube.com/c/SriVenkateswaraTemplePittsburghOfficial/",
+  "contactEmail": "contact@svtemple.org",
+  "infoEmail": "info@svtemple.org",
+  "websiteLink": "https://www.svtemple.org",
+  "Header": {
+    "style": 2,
+    "menuItems": [
+      {
+        "name": "Home",
+        "type": "link",
+        "url": "/"
+      },
+      {
+        "name": "Services",
+        "type": "dropdown",
+        "items": [
+          {
+            "name": "Express Booking",
+            "url": "/expressbookings"
+          },
+          {
+            "name": "Services at the Temple",
+            "url": "/servicesattemple"
+          },
+          {
+            "name": "Services Outside the Temple",
+            "url": "/outsidetemple"
+          },
+          {
+            "name": "Donation",
+            "type": "sub-Dropdown",
+            "items": [
+              {
+                "name": "Donation Item 1",
+                "url": "/donation/item1"
+              },
+              {
+                "name": "Donation Item 2",
+                "url": "/donation/item2"
+              }
+            ]
+          },
+
+          {
+            "name": "Rentals",
+            "url": "/rentals"
+          }
+        ]
+      },
+      {
+        "name": "Events & Activities",
+        "type": "dropdown",
+        "items": [
+          {
+            "name": "All Events",
+            "url": "/events"
+          },
+          {
+            "name": "Community",
+            "type": "sub-Dropdown",
+            "items": [
+              {
+                "name": "PB & J Shelter",
+                "url": "/pbj"
+              },
+              {
+                "name": "Mera-Apne",
+                "url": "/meraapne"
+              }
+            ]
+          },
+          {
+            "name": "Cultural",
+            "type": "sub-Dropdown",
+            "items": [
+              {
+                "name": "Cultural Activities",
+                "url": "/activities"
+              },
+              {
+                "name": "Cultural Events",
+                "url": "/culturalevents"
+              }
+            ]
+          },
+          {
+            "name": "Education",
+            "type": "sub-Dropdown",
+            "items": [
+              {
+                "name": "BalGokul",
+                "url": "/balgokul"
+              },
+              {
+                "name": "BalGokul Payment",
+                "url": "/balgokul-payment"
+              },
+              {
+                "name": "Education Events",
+                "url": "#"
+              },
+              {
+                "name": "Education Activities",
+                "url": "#"
+              }
+            ]
+          },
+          {
+            "name": "Other Events",
+            "url": "/events"
+          },
+          {
+            "name": "Religious Events",
+            "url": "/ReligiousServices"
+          },
+          {
+            "name": "Youth Events",
+            "type": "sub-Dropdown",
+            "items": [
+              {
+                "name": "Youth & Truth",
+                "url": "/youthtruth"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Gallery",
+        "type": "dropdown",
+        "items": [
+          {
+            "name": "Photos",
+            "url": "/gallery/photos"
+          },
+          {
+            "name": "Videos",
+            "url": "/gallery/videos"
+          },
+          {
+            "name": "TV Gallery",
+            "url": "/tvgallery"
+          },
+          {
+            "name": "Religious Texts",
+            "url": "/religioustexts"
+          }
+        ]
+      },
+      {
+        "name": "Visit Info",
+        "type": "dropdown",
+        "items": [
+          {
+            "name": "Location / Directions",
+            "url": "/location"
+          },
+          {
+            "name": "Hotels",
+            "url": "/hotels"
+          },
+          {
+            "name": "Help / FAQ",
+            "url": "/faq"
+          },
+          {
+            "name": "Devotee Guidelines",
+            "url": "/guidelines"
+          },
+          {
+            "name": "Prasadam Policy",
+            "url": "/prasadamPolicy"
+          }
+        ]
+      },
+      {
+        "name": "About Us",
+        "type": "dropdown",
+        "items": [
+          {
+            "name": "Temple's History",
+            "url": "/templehistory"
+          },
+          {
+            "name": "Board of Trustees",
+            "url": "/templetrustees"
+          },
+          {
+            "name": "Executive Board",
+            "url": "/executiveboard"
+          },
+          {
+            "name": "Commitee Coordinators",
+            "url": "/coordinators"
+          },
+          {
+            "name": "Volunteer Registration",
+            "url": "/volunteer"
+          },
+          {
+            "name": "Contact Us",
+            "url": "/contactus"
+          }
+        ]
+      },
+      {
+        "name": "Donate Now",
+        "type": "link",
+        "url": "/donation"
+      }
+    ]
+  },
+  "Footer": {
+    "style": 2,
+    "Information": {
+      "menuItems": [
+        {
+          "name": "Home",
+          "url": "/"
+        },
+        {
+          "name": "Services",
+          "url": "/servicesattemple"
+        },
+        {
+          "name": "Donation",
+          "url": "/donation"
+        },
+        {
+          "name": "Events & Activities",
+          "url": "/events"
+        },
+        {
+          "name": "Location Directions",
+          "url": "/location"
+        },
+        {
+          "name": "About Us",
+          "url": "/templehistory"
+        },
+        {
+          "name": "Contact Us",
+          "url": "/contactus"
+        }
+      ]
+    },
+    "Others": {
+      "menuItems": [
+        {
+          "name": "FAQ's",
+          "url": "/faq"
+        },
+        {
+          "name": "Photo Gallery",
+          "url": "/gallery/photos"
+        },
+        {
+          "name": "Video Gallery",
+          "url": "/gallery/videos"
+        },
+        {
+          "name": "Sitemap",
+          "url": "/"
+        }
+      ]
+    },
+    "ContactInfo": {
+      "address": "1230 S McCully Drive Pittsburgh PA 15235",
+      "phone": "(412) 373-3380",
+      "email": "srivaru@svtemple.org"
+    },
+    "WebsiteIssues": {
+      "url": "www.svtemple.org"
+    },
+    "FollowUs": {
+      "icons": [
+        {
+          "name": "Facebook",
+          "url": "https://www.facebook.com/SVTemplePgh/"
+        },
+        {
+          "name": "Youtube",
+          "url": "https://www.youtube.com/c/SriVenkateswaraTemplePittsburghOfficial/"
+        }
+      ]
+    },
+    "CopyRight": {
+      "designedby": {
+        "name": "Digitera Technologies",
+        "url": "https://digiteratech.com/"
+      }
+    }
+  },
+  "PaymentType": {
+    "style": "paypal"
+  },
+  "DailySchedule": {
+    "style": 2
+  },
+  "Spotlight": {
+    "style": 2
+  },
+  "AboutTemple": {
+    "style": 2
+  },
+  "Panchangam": {
+    "style": 2
+  },
+  "LatestUpdates": {
+    "style": 2
+  },
+  "Services": {
+    "style": 2
+  },
+  "paymentGateways": [
+    {
+      "name": "Stripe",
+      "value": 1,
+      "imageUrl": "https://www.paypal.com/"
+    },
+    {
+      "name": "Paypal",
+      "value": 2,
+      "imageUrl": "https://www.paypal.com/"
+    }
+  ],
+  "pages": {
+    "Home": {
+      "components": [
+        {
+          "name": "Slider",
+          "enabled": true,
+          "className": "slider"
+        },
+        {
+          "name": "LatestUpdates",
+          "enabled": true,
+          "className": "slider"
+        },
+        {
+          "name": "schedule",
+          "enabled": true,
+          "sectionItems": [
+            {
+              "name": "schedule",
+              "className": "schedule",
+              "xs": 12,
+              "sm": 4,
+              "md": 4
+            },
+
+            {
+              "name": "Panchangam",
+              "className": "schedule",
+              "xs": 12,
+              "sm": 4,
+              "md": 4
+            },
+            {
+              "name": "upcomingEvents",
+              "className": "upComingEvents",
+              "xs": 12,
+              "sm": 4,
+              "md": 4
+            }
+          ]
+        },
+
+        {
+          "name": "news&events",
+          "enabled": true,
+          "sectionItems": [
+            {
+              "name": "news",
+              "className": "newsAndEvents",
+              "xs": 12,
+              "sm": 6,
+              "md": 6
+            },
+            {
+              "name": "event",
+              "className": "newsAndEvents",
+              "xs": 12,
+              "sm": 6,
+              "md": 6
+            }
+          ]
+        },
+
+        {
+          "name": "Spotlight",
+          "enabled": true
+        },
+        {
+          "name": "aboutTemple",
+          "enabled": true
+        },
+        {
+          "name": "services",
+          "enabled": false
+        },
+        {
+          "name": "gallery",
+          "enabled": false
+        },
+        {
+          "name": "templeTiming",
+          "enabled": false
+        },
+        {
+          "name": "floatingSideMenu",
+          "enabled": true
+        }
+      ]
+    }
+  }
+}
