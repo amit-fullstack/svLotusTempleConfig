@@ -1,16 +1,16 @@
 {
   "templeName": "Sri Venkateswara Lotus Temple",
-  "templeNameWithLocation": "Sri Venkateswara Lotus Temple, Braddock",
-  "templeAddress": "12501 Braddock Road, Fairfax, VA, 22030",
+  "templeNameWithLocation": "Sri Venkateswara Lotus Temple, Fairfax",
+  "templeAddress": "12501 Braddock Road, Fairfax, VA 22030",
   "templeReciptFooterText": "May the blessings of Lord Sri Venkateswara be with us always",
-  "instagramLink": "https://www.instagram.com/lotustempleva/",
+  "instagramLink": "https://www.instagram.com/lotustempleva",
   "facebookLink": "https://www.facebook.com/SVLotusTemple",
   "youtubeLink": "https://www.youtube.com/@SVLotusTempleVA",
   "contactEmail": "svlotustemple@svlotustemple.org",
-  "infoEmail": "",
-  "websiteLink": "",
+  "infoEmail": "svlotustemple@svlotustemple.org",
+  "websiteLink": "https://www.svlotustemple.org",
   "Header": {
-    "style": 2,
+    "style": 1,
     "menuItems": [
       {
         "name": "Home",
@@ -35,17 +35,7 @@
           },
           {
             "name": "Donation",
-            "type": "sub-Dropdown",
-            "items": [
-              {
-                "name": "Donation Item 1",
-                "url": "/donation/item1"
-              },
-              {
-                "name": "Donation Item 2",
-                "url": "/donation/item2"
-              }
-            ]
+            "url": "/donation"
           },
 
           {
@@ -218,7 +208,7 @@
     ]
   },
   "Footer": {
-    "style": 2,
+    "style": 1,
     "Information": {
       "menuItems": [
         {
@@ -272,12 +262,12 @@
       ]
     },
     "ContactInfo": {
-      "address": "12501 Braddock Road, Fairfax, VA, 22030",
-      "phone": " 703-815-4850",
-      "email": "svlotustemple@svlotustemple.org"
+      "address": "12501 Braddock Road, Fairfax, VA 22030",
+      "phone": "703-815-4850",
+      "email": "ssvlotustemple@svlotustemple.org"
     },
     "WebsiteIssues": {
-      "url": "www.svtemple.org"
+      "url": "www.svlotustemple.org"
     },
     "FollowUs": {
       "icons": [
@@ -302,22 +292,22 @@
     "style": "paypal"
   },
   "DailySchedule": {
-    "style": 2
+    "style": 1
   },
   "Spotlight": {
-    "style": 2
+    "style": 1
   },
   "AboutTemple": {
     "style": 2
   },
   "Panchangam": {
-    "style": 2
+    "style": 1
   },
   "LatestUpdates": {
-    "style": 2
+    "style": 1
   },
   "Services": {
-    "style": 2
+    "style": 1
   },
   "paymentGateways": [
     {
@@ -355,27 +345,19 @@
               "sm": 4,
               "md": 4
             },
-
-            {
-              "name": "Panchangam",
-              "className": "schedule",
-              "xs": 12,
-              "sm": 4,
-              "md": 4
-            },
             {
               "name": "upcomingEvents",
               "className": "upComingEvents",
               "xs": 12,
-              "sm": 4,
-              "md": 4
+              "sm": 8,
+              "md": 8
             }
           ]
         },
 
         {
           "name": "news&events",
-          "enabled": true,
+          "enabled": false,
           "sectionItems": [
             {
               "name": "news",
@@ -404,15 +386,19 @@
         },
         {
           "name": "services",
-          "enabled": false
+          "enabled": true
+        },
+        {
+          "name": "Panchangam",
+          "enabled": true
         },
         {
           "name": "gallery",
-          "enabled": false
+          "enabled": true
         },
         {
           "name": "templeTiming",
-          "enabled": false
+          "enabled": true
         },
         {
           "name": "floatingSideMenu",
@@ -422,3 +408,4 @@
     }
   }
 }
+
