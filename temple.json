@@ -53,6 +53,10 @@
             "url": "/events"
           },
           {
+            "name": "Lotus Academy",
+            "url": "/lotusacademy"
+          },
+          {
             "name": "Community",
             "type": "sub-Dropdown",
             "items": [
