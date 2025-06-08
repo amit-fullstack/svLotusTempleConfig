@@ -145,6 +145,11 @@
         ]
       },
       {
+        "name": "Lotus Academy",
+        "type": "link",
+        "url": "/lotusacademy"
+      },
+      {
         "name": "Visit Info",
         "type": "dropdown",
         "items": [
@@ -408,4 +413,3 @@
     }
   }
 }
-
