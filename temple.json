@@ -145,41 +145,35 @@
         ]
       },
       {
-        "name": "Lotus Academy",
-        "type": "link",
-        "url": "/lotusacademy"
+        "name": "Visit Info",
+        "type": "dropdown",
+        "items": [
+          {
+            "name": "Location / Directions",
+            "url": "/location"
+          },
+          {
+            "name": "Hotels",
+            "url": "/hotels"
+          },
+          {
+            "name": "Help / FAQ",
+            "url": "/faq"
+          },
+          {
+            "name": "Devotee Guidelines",
+            "url": "/guidelines"
+          },
+          {
+            "name": "Prasadam Policy",
+            "url": "/prasadamPolicy"
+          }
+        ]
       },
-
       {
         "name": "About Us",
         "type": "dropdown",
         "items": [
-          {
-            "name": "Visit Info",
-            "type": "sub-Dropdown",
-            "items": [
-              {
-                "name": "Location / Directions",
-                "url": "/location"
-              },
-              {
-                "name": "Hotels",
-                "url": "/hotels"
-              },
-              {
-                "name": "Help / FAQ",
-                "url": "/faq"
-              },
-              {
-                "name": "Devotee Guidelines",
-                "url": "/guidelines"
-              },
-              {
-                "name": "Prasadam Policy",
-                "url": "/prasadamPolicy"
-              }
-            ]
-          },
           {
             "name": "Temple's History",
             "url": "/templehistory"
