@@ -183,17 +183,10 @@
             "url": "/templehistory"
           },
           {
-            "name": "Board of Trustees",
+            "name": "Management",
             "url": "/templetrustees"
           },
-          {
-            "name": "Executive Board",
-            "url": "/executiveboard"
-          },
-          {
-            "name": "Commitee Coordinators",
-            "url": "/coordinators"
-          },
+         
           {
             "name": "Volunteer Registration",
             "url": "/volunteer"
@@ -268,11 +261,9 @@
     "ContactInfo": {
       "address": "12501 Braddock Road, Fairfax, VA 22030",
       "phone": "703-815-4850",
-      "email": "ssvlotustemple@svlotustemple.org"
+      "email": "svlotustemple@svlotustemple.org"
     },
-    "WebsiteIssues": {
-      "url": "www.svlotustemple.org"
-    },
+  
     "FollowUs": {
       "icons": [
         {
