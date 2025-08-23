@@ -37,10 +37,13 @@
             "name": "Donation",
             "url": "/donation"
           },
-
           {
             "name": "Rentals",
             "url": "/rentals"
+          },
+          {
+            "name": "Catering",
+            "url": "/catering"
           }
         ]
       },
