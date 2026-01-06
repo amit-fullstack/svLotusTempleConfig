@@ -5,10 +5,13 @@
   "templeReciptFooterText": "May the blessings of Lord Sri Venkateswara be with us always",
   "instagramLink": "https://www.instagram.com/lotustempleva",
   "facebookLink": "https://www.facebook.com/SVLotusTemple",
+  "locationlink": "https://www.google.com/maps/dir//Durga+Temple+of+Virginia,+8400+Durga+Pl,+Fairfax+Station,+VA+22039/@38.728611,-77.251111,16z/data=!4m9!4m8!1m0!1m5!1m1!1s0x89b653a345b698d3:0x720b5540b8255ac9!2m2!1d-77.2511111!2d38.7286111!3e0?hl=en-US&entry=ttu",
   "youtubeLink": "https://www.youtube.com/@SVLotusTempleVA",
   "contactEmail": "svlotustemple@svlotustemple.org",
+  "contactPhone": "(412) 373-3380",
   "infoEmail": "svlotustemple@svlotustemple.org",
   "websiteLink": "https://www.svlotustemple.org",
+"personalServiceEnabled": false,
   "Header": {
     "style": 1,
     "menuItems": [
@@ -37,14 +40,17 @@
             "name": "Donation",
             "url": "/donation"
           },
+          { "name": "Recurring Donations", "url": "/recurringdonations" },
           {
             "name": "Rentals",
-            "url": "/rentals"
+            "url": "/hallbooking"
           },
           {
             "name": "Catering",
             "url": "/catering"
-          }
+          },
+          { "name": "Services Search", "url": "/servicesnew" },
+          { "name": "Personal Services", "url": "/personalServices" }
         ]
       },
       {
@@ -64,12 +70,12 @@
             "type": "sub-Dropdown",
             "items": [
               {
-                "name": "PB & J Shelter",
-                "url": "/pbj"
+                "name": "CommunityActivities",
+                "url": "/activities"
               },
               {
-                "name": "Mera-Apne",
-                "url": "/meraapne"
+                "name": "Community Events",
+                "url": "/events/"
               }
             ]
           },
@@ -83,7 +89,7 @@
               },
               {
                 "name": "Cultural Events",
-                "url": "/culturalevents"
+                "url": "/events/cultural"
               }
             ]
           },
@@ -92,16 +98,8 @@
             "type": "sub-Dropdown",
             "items": [
               {
-                "name": "BalGokul",
-                "url": "/balgokul"
-              },
-              {
-                "name": "BalGokul Payment",
-                "url": "/balgokul-payment"
-              },
-              {
                 "name": "Education Events",
-                "url": "#"
+                "url": "/events/education"
               },
               {
                 "name": "Education Activities",
@@ -110,22 +108,8 @@
             ]
           },
           {
-            "name": "Other Events",
-            "url": "/events"
-          },
-          {
             "name": "Religious Events",
-            "url": "/ReligiousServices"
-          },
-          {
-            "name": "Youth Events",
-            "type": "sub-Dropdown",
-            "items": [
-              {
-                "name": "Youth & Truth",
-                "url": "/youthtruth"
-              }
-            ]
+            "url": "/events/religious"
           }
         ]
       },
@@ -185,11 +169,12 @@
             "name": "Temple's History",
             "url": "/templehistory"
           },
+{"name":"Articles of Inc & Bylaws","url":"articlesandbylaws"},
           {
             "name": "Management",
             "url": "/templetrustees"
           },
-         
+
           {
             "name": "Volunteer Registration",
             "url": "/volunteer"
@@ -266,7 +251,7 @@
       "phone": "703-815-4850",
       "email": "svlotustemple@svlotustemple.org"
     },
-  
+
     "FollowUs": {
       "icons": [
         {
