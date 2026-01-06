@@ -29,15 +29,21 @@ html {
   scroll-behavior: smooth;
 }
 
+
+
 .css-1u0h3mu {
-margin:0 !important
+
+  margin: 0 !important;
+
 }
 
 
-.css-160unip{
 
-    margin: 0 !important;}
+.css-160unip {
 
+  margin: 0 !important;
+
+}
 p {
   font-family: var(--body-font-family) !important;
   font-size: 15.5px !important;
