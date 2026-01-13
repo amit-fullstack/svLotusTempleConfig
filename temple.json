@@ -242,7 +242,7 @@
         },
         {
           "name": "Sitemap",
-          "url": "/"
+          "url": "/sitemap.xml"
         }
       ]
     },
