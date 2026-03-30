@@ -50,7 +50,7 @@
             "url": "/catering"
           },
           { "name": "Services Search", "url": "/servicesnew" },
-          { "name": "Personal Services", "url": "/personalServices" }
+          { "name": "Personal Services", "url": "/personalservices" }
         ]
       },
       {
@@ -157,7 +157,7 @@
           },
           {
             "name": "Prasadam Policy",
-            "url": "/prasadamPolicy"
+            "url": "/prasadampolicy"
           }
         ]
       },
