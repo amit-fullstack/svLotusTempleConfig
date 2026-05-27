@@ -2,6 +2,8 @@
   "templeName": "Sri Venkateswara Lotus Temple",
   "templeNameWithLocation": "Sri Venkateswara Lotus Temple, Fairfax",
   "templeAddress": "12501 Braddock Road, Fairfax, VA 22030",
+  "latitude": 38.826,
+  "longitude": -77.3791,
   "templeReciptFooterText": "May the blessings of Lord Sri Venkateswara be with us always",
   "instagramLink": "https://www.instagram.com/lotustempleva",
   "facebookLink": "https://www.facebook.com/SVLotusTemple",
@@ -11,7 +13,7 @@
   "contactPhone": "(412) 373-3380",
   "infoEmail": "svlotustemple@svlotustemple.org",
   "websiteLink": "https://www.svlotustemple.org",
-"personalServiceEnabled": false,
+  "personalServiceEnabled": false,
   "Header": {
     "style": 1,
     "menuItems": [
@@ -169,7 +171,7 @@
             "name": "Temple's History",
             "url": "/templehistory"
           },
-{"name":"Articles of Inc & Bylaws","url":"articlesandbylaws"},
+          { "name": "Articles of Inc & Bylaws", "url": "articlesandbylaws" },
           {
             "name": "Management",
             "url": "/management"
