@@ -300,11 +300,6 @@
       "name": "Stripe",
       "value": 1,
       "imageUrl": "https://www.paypal.com/"
-    },
-    {
-      "name": "Paypal",
-      "value": 2,
-      "imageUrl": "https://www.paypal.com/"
     }
   ],
   "pages": {
