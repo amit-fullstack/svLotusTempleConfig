@@ -1,16 +1,22 @@
 {
-  "templeName": "Sri Venkateswara Temple",
-  "templeNameWithLocation": "Sri Venkateswara Temple, Pittsburgh",
-  "templeAddress": "1230 S McCully Drive Pittsburgh PA 15235",
+  "templeName": "Sri Venkateswara Lotus Temple",
+  "templeNameWithLocation": "Sri Venkateswara Lotus Temple, Fairfax",
+  "templeAddress": "12501 Braddock Road, Fairfax, VA 22030",
+  "latitude": 38.826,
+  "longitude": -77.3791,
   "templeReciptFooterText": "May the blessings of Lord Sri Venkateswara be with us always",
-  "instagramLink": "#",
-  "facebookLink": "https://www.facebook.com/SVTemplePgh/",
-  "youtubeLink": "https://www.youtube.com/c/SriVenkateswaraTemplePittsburghOfficial/",
-  "contactEmail": "contact@svtemple.org",
-  "infoEmail": "info@svtemple.org",
-  "websiteLink": "https://www.svtemple.org",
+  "instagramLink": "https://www.instagram.com/lotustempleva",
+  "facebookLink": "https://www.facebook.com/SVLotusTemple",
+  "locationlink": "https://www.google.com/maps/dir//Durga+Temple+of+Virginia,+8400+Durga+Pl,+Fairfax+Station,+VA+22039/@38.728611,-77.251111,16z/data=!4m9!4m8!1m0!1m5!1m1!1s0x89b653a345b698d3:0x720b5540b8255ac9!2m2!1d-77.2511111!2d38.7286111!3e0?hl=en-US&entry=ttu",
+  "youtubeLink": "https://www.youtube.com/@SVLotusTempleVA",
+  "contactEmail": "svlotustemple@svlotustemple.org",
+  "contactPhone": "(412) 373-3380",
+  "infoEmail": "svlotustemple@svlotustemple.org",
+  "websiteLink": "https://www.svlotustemple.org",
+  "personalServiceEnabled": false,
+  "templeGodName": "Lord Sri Venkateswara",
   "Header": {
-    "style": 2,
+    "style": 1,
     "menuItems": [
       {
         "name": "Home",
@@ -35,23 +41,19 @@
           },
           {
             "name": "Donation",
-            "type": "sub-Dropdown",
-            "items": [
-              {
-                "name": "Donation Item 1",
-                "url": "/donation/item1"
-              },
-              {
-                "name": "Donation Item 2",
-                "url": "/donation/item2"
-              }
-            ]
+            "url": "/donation"
           },
-
+          { "name": "Recurring Donations", "url": "/recurringdonations" },
           {
             "name": "Rentals",
-            "url": "/rentals"
-          }
+            "url": "/hallbooking"
+          },
+          {
+            "name": "Catering",
+            "url": "/catering"
+          },
+          { "name": "Services Search", "url": "/servicesnew" },
+          { "name": "Personal Services", "url": "/personalservices" }
         ]
       },
       {
@@ -63,16 +65,20 @@
             "url": "/events"
           },
           {
+            "name": "Lotus Academy",
+            "url": "/lotusacademy"
+          },
+          {
             "name": "Community",
             "type": "sub-Dropdown",
             "items": [
               {
-                "name": "PB & J Shelter",
-                "url": "/pbj"
+                "name": "CommunityActivities",
+                "url": "/activities"
               },
               {
-                "name": "Mera-Apne",
-                "url": "/meraapne"
+                "name": "Community Events",
+                "url": "/events/"
               }
             ]
           },
@@ -86,7 +92,7 @@
               },
               {
                 "name": "Cultural Events",
-                "url": "/culturalevents"
+                "url": "/events/cultural"
               }
             ]
           },
@@ -95,16 +101,8 @@
             "type": "sub-Dropdown",
             "items": [
               {
-                "name": "BalGokul",
-                "url": "/balgokul"
-              },
-              {
-                "name": "BalGokul Payment",
-                "url": "/balgokul-payment"
-              },
-              {
                 "name": "Education Events",
-                "url": "#"
+                "url": "/events/education"
               },
               {
                 "name": "Education Activities",
@@ -113,22 +111,8 @@
             ]
           },
           {
-            "name": "Other Events",
-            "url": "/events"
-          },
-          {
             "name": "Religious Events",
-            "url": "/ReligiousServices"
-          },
-          {
-            "name": "Youth Events",
-            "type": "sub-Dropdown",
-            "items": [
-              {
-                "name": "Youth & Truth",
-                "url": "/youthtruth"
-              }
-            ]
+            "url": "/events/religious"
           }
         ]
       },
@@ -176,7 +160,7 @@
           },
           {
             "name": "Prasadam Policy",
-            "url": "/prasadamPolicy"
+            "url": "/prasadampolicy"
           }
         ]
       },
@@ -188,18 +172,12 @@
             "name": "Temple's History",
             "url": "/templehistory"
           },
+          { "name": "Articles of Inc & Bylaws", "url": "articlesandbylaws" },
           {
-            "name": "Board of Trustees",
-            "url": "/templetrustees"
+            "name": "Management",
+            "url": "/management"
           },
-          {
-            "name": "Executive Board",
-            "url": "/executiveboard"
-          },
-          {
-            "name": "Commitee Coordinators",
-            "url": "/coordinators"
-          },
+
           {
             "name": "Volunteer Registration",
             "url": "/volunteer"
@@ -218,7 +196,7 @@
     ]
   },
   "Footer": {
-    "style": 2,
+    "style": 1,
     "Information": {
       "menuItems": [
         {
@@ -267,27 +245,25 @@
         },
         {
           "name": "Sitemap",
-          "url": "/"
+          "url": "/sitemap.xml"
         }
       ]
     },
     "ContactInfo": {
-      "address": "1230 S McCully Drive Pittsburgh PA 15235",
-      "phone": "(412) 373-3380",
-      "email": "srivaru@svtemple.org"
+      "address": "12501 Braddock Road, Fairfax, VA 22030",
+      "phone": "703-815-4850",
+      "email": "svlotustemple@svlotustemple.org"
     },
-    "WebsiteIssues": {
-      "url": "www.svtemple.org"
-    },
+
     "FollowUs": {
       "icons": [
         {
           "name": "Facebook",
-          "url": "https://www.facebook.com/SVTemplePgh/"
+          "url": "https://www.facebook.com/SVLotusTemple"
         },
         {
           "name": "Youtube",
-          "url": "https://www.youtube.com/c/SriVenkateswaraTemplePittsburghOfficial/"
+          "url": "https://www.youtube.com/@SVLotusTempleVA"
         }
       ]
     },
@@ -302,22 +278,22 @@
     "style": "paypal"
   },
   "DailySchedule": {
-    "style": 2
+    "style": 1
   },
   "Spotlight": {
-    "style": 2
+    "style": 1
   },
   "AboutTemple": {
     "style": 2
   },
   "Panchangam": {
-    "style": 2
+    "style": 1
   },
   "LatestUpdates": {
-    "style": 2
+    "style": 1
   },
   "Services": {
-    "style": 2
+    "style": 1
   },
   "paymentGateways": [
     {
@@ -355,27 +331,19 @@
               "sm": 4,
               "md": 4
             },
-
-            {
-              "name": "Panchangam",
-              "className": "schedule",
-              "xs": 12,
-              "sm": 4,
-              "md": 4
-            },
             {
               "name": "upcomingEvents",
               "className": "upComingEvents",
               "xs": 12,
-              "sm": 4,
-              "md": 4
+              "sm": 8,
+              "md": 8
             }
           ]
         },
 
         {
           "name": "news&events",
-          "enabled": true,
+          "enabled": false,
           "sectionItems": [
             {
               "name": "news",
@@ -404,15 +372,19 @@
         },
         {
           "name": "services",
-          "enabled": false
+          "enabled": true
+        },
+        {
+          "name": "Panchangam",
+          "enabled": true
         },
         {
           "name": "gallery",
-          "enabled": false
+          "enabled": true
         },
         {
           "name": "templeTiming",
-          "enabled": false
+          "enabled": true
         },
         {
           "name": "floatingSideMenu",

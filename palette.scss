@@ -1,0 +1,45 @@
+// primary
+$primaryLight: #dd330e;
+$primaryMain: #582ecf;
+$primaryDark: #d02b09;
+$primary500: #f64017;
+$primary400: #f75f3a;
+
+// secondary
+$secondaryLight: #ffa009;
+$secondaryMain: #ff6f08;
+$secondaryDark: #ff8f09;
+$secondary500: #ffc110;
+$secondary400: #ffca2b;
+
+$greyLight: #61666a;
+$greyMain:#212529;
+$greyDark:#42464b;
+$grey500:#9fa3a9;
+$grey400:#bdc2c7;
+$greyContrastText: #dfe5ea;
+
+$whiteMain: #fff;
+
+:export {
+    primaryLight: $primaryLight;
+    primaryMain: $primaryMain;
+    primaryDark: $primaryDark;
+    primary500: $primary500;
+    primary400: $primary400;
+  
+    secondaryLight: $secondaryLight;
+    secondaryMain: $secondaryMain;
+    secondaryDark: $secondaryDark;
+    secondary500: $secondary500;
+    secondary400: $secondary400;
+
+    greyLight: $greyLight;
+    greyMain: $greyMain;
+    greyDark: $greyDark;
+    grey500: $grey500;
+    grey400: $grey400;
+    greyContrastText: $greyContrastText;
+
+    whiteMain: $whiteMain;
+}
