@@ -302,6 +302,9 @@
       "imageUrl": "https://www.paypal.com/"
     }
   ],
+  "guestRequestTracking": {
+    "enabled": true
+  },
   "pages": {
     "Home": {
       "components": [
