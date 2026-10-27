@@ -302,7 +302,7 @@
       "imageUrl": "https://www.paypal.com/"
     }
   ],
-  "guestRequestTracking": {
+  "trackRequest": {
     "enabled": true
   },
   "pages": {
