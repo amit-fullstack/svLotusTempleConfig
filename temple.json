@@ -305,6 +305,9 @@
   "trackRequest": {
     "enabled": true
   },
+  "premiumFeatures": {
+    "cashierOpeningClosing": false
+  },
   "pages": {
     "Home": {
       "components": [
