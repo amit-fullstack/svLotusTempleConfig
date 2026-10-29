@@ -322,6 +322,10 @@
           "className": "slider"
         },
         {
+          "name": "Panchangam",
+          "enabled": true
+        },
+        {
           "name": "schedule",
           "enabled": true,
           "sectionItems": [
@@ -373,10 +377,6 @@
         },
         {
           "name": "services",
-          "enabled": true
-        },
-        {
-          "name": "Panchangam",
           "enabled": true
         },
         {
