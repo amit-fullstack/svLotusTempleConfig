@@ -49,8 +49,20 @@
             "url": "/hallbooking"
           },
           {
-            "name": "Catering",
-            "url": "/catering"
+            "name": "Kitchen",
+            "type": "sub-Dropdown",
+            "url": "/kitchen",
+            "items": [
+              {
+                "name": "Today's Cafeteria Menu",
+                "url": "/cafeteriamenu",
+                "premiumFeature": "cafeteriaMenu"
+              },
+              {
+                "name": "Catering",
+                "url": "/catering"
+              }
+            ]
           },
           { "name": "Services Search", "url": "/servicesnew" },
           { "name": "Personal Services", "url": "/personalservices" }
@@ -307,7 +319,7 @@
   },
   "premiumFeatures": {
     "cashierOpeningClosing": false,
-    "cafeteriaMenu": false
+    "cafeteriaMenu": true
   },
   "pages": {
     "Home": {
