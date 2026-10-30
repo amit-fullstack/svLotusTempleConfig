@@ -306,7 +306,8 @@
     "enabled": true
   },
   "premiumFeatures": {
-    "cashierOpeningClosing": false
+    "cashierOpeningClosing": false,
+    "cafeteriaMenu": false
   },
   "pages": {
     "Home": {
