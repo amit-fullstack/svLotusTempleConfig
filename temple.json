@@ -319,7 +319,8 @@
   },
   "premiumFeatures": {
     "cashierOpeningClosing": false,
-    "cafeteriaMenu": true
+    "cafeteriaMenu": true,
+    "duplicateBookingCheck": false
   },
   "pages": {
     "Home": {
