@@ -320,7 +320,8 @@
   "premiumFeatures": {
     "cashierOpeningClosing": false,
     "cafeteriaMenu": true,
-    "duplicateBookingCheck": false
+    "duplicateBookingCheck": false,
+    "multipleChildEnrollment": false
   },
   "pages": {
     "Home": {
